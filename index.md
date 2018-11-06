@@ -7,6 +7,12 @@ Abstract harmonic analysis, locally compact groups, Banach algebras, operator th
 ## Curriculum Vitae
 See here: [CV](jaredtwhite.io/CV 25-10-2018.pdf)
 
+## Research Statement
+See here:
+
+## Teaching Statement
+See here:
+
 You can use the [editor on GitHub](https://github.com/jaredtwhite/jaredtwhite.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
