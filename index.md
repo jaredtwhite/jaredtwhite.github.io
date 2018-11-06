@@ -4,7 +4,7 @@
 ## Research Interests
 Abstract harmonic analysis, locally compact groups, Banach algebras, operator theory.
 
-##Curriculum Vitae
+## Curriculum Vitae
 See here: [CV](https://github.com/jaredtwhite/jaredtwhite.io/CV_25-10-2018)
 
 You can use the [editor on GitHub](https://github.com/jaredtwhite/jaredtwhite.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
