@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Jared T White
+**Laboratiore de Mathématiques de Besançon**
+
+## Research Interests
+Abstract harmonic analysis, locally compact groups, Banach algebras, operator theory.
 
 You can use the [editor on GitHub](https://github.com/jaredtwhite/jaredtwhite.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
