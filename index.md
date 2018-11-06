@@ -5,7 +5,7 @@
 Abstract harmonic analysis, locally compact groups, Banach algebras, operator theory.
 
 ## Curriculum Vitae
-See here: [CV](https://github.com/jaredtwhite/jaredtwhite.io/CV_25-10-2018)
+See here: [CV](jaredtwhite.io/CV 25-10-2018.pdf)
 
 You can use the [editor on GitHub](https://github.com/jaredtwhite/jaredtwhite.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
