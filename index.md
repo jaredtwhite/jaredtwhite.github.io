@@ -25,7 +25,7 @@ Abstract harmonic analysis, locally compact groups, Banach algebras, operator th
 [arXiv](https://arxiv.org/abs/1811.02393)
 
 ## Curriculum Vitae
-See here: [CV](jaredtwhite.io/CV 25-10-2018.pdf)
+See here: [CV](jaredtwhite.io/CV.pdf)
 
 ## Research Statement
 See here:
