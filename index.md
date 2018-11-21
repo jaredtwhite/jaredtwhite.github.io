@@ -18,7 +18,7 @@ Abstract harmonic analysis, locally compact groups, Banach algebras, operator th
 [arXiv](https://arxiv.org/abs/1612.05915)
 
 ### Preprints
-[4]  N.J.Laustsen and J.T.White, Subspaces that can and cannot be the kernel of a bounded operator of a Banach space, *submitted*.
+[4]  N.J.Laustsen and J.T.White, Subspaces that can and cannot be the kernel of a bounded operator of a Banach space, To appear in *Proceedings of the 23rd International Conference on Banach Algebras and Applications*.
 [arXiv](https://arxiv.org/abs/1811.02399)
 
 [5] J.T. White, Left ideals of Banach algebras and Dual Banach algebras, *submitted*.
