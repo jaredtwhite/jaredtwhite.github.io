@@ -38,9 +38,9 @@ I can be reached by email at jw65537 at gmail dot com.
 
 My postal address at my current department is:
 
-Dr. Jared T White, \\
-Laboratoire de mathématiques de Besançon,
-Université de Franche-Comté,
-16, route de Gray,
-25 030 Besançon,
+Dr. Jared T White,\
+Laboratoire de mathématiques de Besançon,\
+Université de Franche-Comté,\
+16, route de Gray,\
+25 030 Besançon,\
 France
