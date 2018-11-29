@@ -7,7 +7,7 @@ Postdoctoral Researcher in Pure Mathematics.
 ### Key words
 Abstract harmonic analysis, locally compact groups, Banach algebras, operator theory.
 ### Summary
-My research is concerned with the Banach and operator algebras associated with locally compact groups, and seeks to better understand how properties of the underlying group are reflected in the associated algebras, and vice versa. One important aspect of this research has concerned better understanding the structure an properties of the (left/right/two-sided) ideals of these algebras. Recently I have become interested in the analogous questions in the setting of quantum groups. Other interests of mine include semigroup Banach algebras, and finiteness of C\*-algebras on groups and semigroups. A more detailed summary of my research articles is contained in the appendix to my CV below.
+My research is concerned with the Banach and operator algebras associated with locally compact groups, and seeks to better understand how properties of the underlying group are reflected in the associated algebras, and vice versa. One important aspect of this research has concerned better understanding the structure and properties of the (left/right/two-sided) ideals of these algebras. Recently I have become interested in the analogous questions in the setting of quantum groups. Other interests of mine include semigroup Banach algebras, and direct finiteness of C\*-algebras on groups and semigroups. A more detailed summary of my research articles is contained in the appendix to my CV below.
 
 ## Publications
 ### Published
