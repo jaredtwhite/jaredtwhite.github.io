@@ -32,3 +32,14 @@ See here: [CV](https://jaredtwhite.github.io/CV.pdf)
 
 ## Teaching Statement
 See here:
+
+## Contact
+I can be reached by email at jw65537 at gmail dot com.
+
+My postal address at my current department is:
+
+Laboratoire de mathématiques de Besançon,
+Université de Franche-Comté,
+16, route de Gray,
+25 030 Besançon,
+France
