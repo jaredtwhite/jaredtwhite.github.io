@@ -31,7 +31,7 @@ My research is concerned with the Banach and operator algebras associated with l
 See here: [CV](https://jaredtwhite.github.io/CV.pdf)
 
 ## Teaching Statement
-See here: [teaching statement](https://jaredtwhite.github.io/)
+See here: [teaching statement](https://jaredtwhite.github.io/Teaching_Statement.pdf)
 
 ## Contact
 I can be reached by email at jw65537 at gmail dot com.
