@@ -34,7 +34,7 @@ See here: [CV](https://jaredtwhite.github.io/CV.pdf)
 See here: [teaching statement](https://jaredtwhite.github.io/Teaching_Statement.pdf)
 
 ## Contact
-I can be reached by email at jw65537 at gmail dot com.
+I can be reached by email at jw65537 AT gmail DOT com.
 
 My postal address at my current department is:
 
