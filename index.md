@@ -1,5 +1,4 @@
 ## Jared T White
-**Laboratiore de Mathématiques de Besançon**
 
 Postdoctoral Researcher in Pure Mathematics.
 
@@ -31,16 +30,8 @@ My research is concerned with the Banach and operator algebras associated with l
 See here: [CV](https://jaredtwhite.github.io/CV.pdf)
 
 ## Teaching Statement
-See here: [teaching statement](https://jaredtwhite.github.io/Teachin_Statement.pdf)
+See here: [teaching statement](https://jaredtwhite.github.io/Teaching_Statement.pdf)
 
 ## Contact
 I can be reached by email at jw65537 AT gmail DOT com.
 
-My postal address at my current department is:
-
-Dr. Jared T White,<br/>
-Laboratoire de mathématiques de Besançon,<br/>
-Université de Franche-Comté,<br/>
-16, route de Gray,<br/>
-25 030 Besançon,<br/>
-France
