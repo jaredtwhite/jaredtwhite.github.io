@@ -29,7 +29,7 @@ My research is concerned with the Banach and operator algebras associated with l
 [arXiv](https://arxiv.org/abs/1811.02393)
 
 ## Curriculum Vitae
-See here: [CV](https://jaredtwhite.github.io/{CV 01-09-20}.pdf)
+See here: [CV](https://jaredtwhite.github.io/CV.pdf)
 
 ## Teaching Statement
 See here: [teaching statement](https://jaredtwhite.github.io/Teaching_Statement.pdf)
