@@ -29,6 +29,9 @@ My research is concerned with the Banach and operator algebras associated with l
 [7] J. T. White, Left ideals of Banach algebras and Dual Banach algebras, To appear in *Proceedings of the 23rd International Conference on Banach Algebras and Applications*.
 [arXiv](https://arxiv.org/abs/1811.02393)
 
+### Doctoral Thesis
+My PhD thesis, entitled *Banach algebras on groups and semigroups*, can be found [here](https://jaredtwhite.github.io/PhD_Thesis.pdf).
+
 ## Curriculum Vitae
 See here: [CV](https://jaredtwhite.github.io/CV.pdf)
 
