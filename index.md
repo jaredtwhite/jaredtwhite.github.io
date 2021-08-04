@@ -9,7 +9,7 @@ My research is concerned with the Banach and operator algebras associated with l
 
 ## Publications
 ### Preprints
-[1] J. T. White, The ideal structure of measure algebras and asymptotic properties of group representations, *submitted for peer review*. [arXiv](https://arxiv.org/abs/2106.07526).
+[1] J. T. White, The ideal structure of measure algebras and asymptotic properties of group representations, *submitted for peer review*. [arXiv](https://arxiv.org/abs/2106.07526)
 
 [2] J. T. White, On algebras associated with invariant means on the subnormal subgroups of an amenable group, to appear in *The Quarterly Journal of Mathematics*. [arXiv](https://arxiv.org/abs/2008.09069)
 
