@@ -1,5 +1,5 @@
 ## Jared T White
-My name is Jared White, and I am a researcher in pure mathematics, as well as a university maths teacher and private maths tutor.
+My name is Jared White, and I am a researcher in pure mathematics, as well as a university maths lecturer and private maths tutor.
 
 ## Research Interests
 ### Key words
@@ -11,7 +11,7 @@ My research is concerned with the Banach and operator algebras associated with l
 ### Preprints
 [1] J. T. White, The ideal structure of measure algebras and asymptotic properties of group representations, *submitted for peer review*. [arXiv](https://arxiv.org/abs/2106.07526).
 
-[2] J. T. White, On algebras associated with invariant means on the subnormal subgroups of an amenable group, *submitted for peer review*. [arXiv](https://arxiv.org/abs/2008.09069)
+[2] J. T. White, On algebras associated with invariant means on the subnormal subgroups of an amenable group, to appear in *The Quarterly Journal of Mathematics*. [arXiv](https://arxiv.org/abs/2008.09069)
 
 ### Published
 [3]  N. J. Laustsen and J. T. White, Subspaces that can and cannot be the kernel of a bounded operator of a Banach space, *Proceedings of the 23rd International Conference on Banach Algebras and Applications*, De Gruyter Proceedings in Mathematics (De Gruyter 2020), 189-196.
