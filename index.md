@@ -13,7 +13,7 @@ My research is concerned with the Banach and operator algebras associated with l
 
 
 ### Published
-[2] J. T. White, Algebras associated with invariant means on the subnormal subgroups of an amenable group, *Quarterly Journal of Mathematics* **73** (2002), 495-515. [arXiv](https://arxiv.org/abs/2008.09069)
+[2] J. T. White, Algebras associated with invariant means on the subnormal subgroups of an amenable group, *Quarterly Journal of Mathematics* **73** (2022), 495-515. [arXiv](https://arxiv.org/abs/2008.09069)
 
 [3]  N. J. Laustsen and J. T. White, Subspaces that can and cannot be the kernel of a bounded operator of a Banach space, *Proceedings of the 23rd International Conference on Banach Algebras and Applications*, De Gruyter Proceedings in Mathematics (De Gruyter 2020), 189-196.
 [arXiv](https://arxiv.org/abs/1811.02399)
