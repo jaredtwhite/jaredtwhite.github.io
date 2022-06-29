@@ -9,27 +9,27 @@ My research is concerned with the Banach and operator algebras associated with l
 
 ## Publications
 ### Preprints
-[1] J. T. White, On the Dales-{\.Z}elazko conjecture for Beurling algebras on discrete groups, *submitted for peer review*. [arXiv](https://arxiv.org/abs/2206.13989)
+[1] J. T. White, On the Dales-Zelazko conjecture for Beurling algebras on discrete groups, *submitted for peer review*. [arXiv](https://arxiv.org/abs/2206.13989)
 
-[1] J. T. White, The ideal structure of measure algebras and asymptotic properties of group representations, *submitted for peer review*. [arXiv](https://arxiv.org/abs/2106.07526)
+[2] J. T. White, The ideal structure of measure algebras and asymptotic properties of group representations, *submitted for peer review*. [arXiv](https://arxiv.org/abs/2106.07526)
 
 
 ### Published
-[2] J. T. White, Algebras associated with invariant means on the subnormal subgroups of an amenable group, *Quarterly Journal of Mathematics* **73** (2022), 495-515. [arXiv](https://arxiv.org/abs/2008.09069)
+[3] J. T. White, Algebras associated with invariant means on the subnormal subgroups of an amenable group, *Quarterly Journal of Mathematics* **73** (2022), 495-515. [arXiv](https://arxiv.org/abs/2008.09069)
 
-[3]  N. J. Laustsen and J. T. White, Subspaces that can and cannot be the kernel of a bounded operator of a Banach space, *Proceedings of the 23rd International Conference on Banach Algebras and Applications*, De Gruyter Proceedings in Mathematics (De Gruyter 2020), 189-196.
+[4]  N. J. Laustsen and J. T. White, Subspaces that can and cannot be the kernel of a bounded operator of a Banach space, *Proceedings of the 23rd International Conference on Banach Algebras and Applications*, De Gruyter Proceedings in Mathematics (De Gruyter 2020), 189-196.
 [arXiv](https://arxiv.org/abs/1811.02399)
 
-[4] J. T. White, Left ideals of Banach algebras and Dual Banach algebras, *Proceedings of the 23rd International Conference on Banach Algebras and Applications*, De Gruyter Proceedings in Mathematics (De Gruyter 2020), 227-253.
+[5] J. T. White, Left ideals of Banach algebras and Dual Banach algebras, *Proceedings of the 23rd International Conference on Banach Algebras and Applications*, De Gruyter Proceedings in Mathematics (De Gruyter 2020), 227-253.
 [arXiv](https://arxiv.org/abs/1811.02393)
 
-[5] J. T. White, The radical of the bidual of a Beurling algebra, *Quarterly Journal of Mathematics* **69** (2018), 975-993.
+[6] J. T. White, The radical of the bidual of a Beurling algebra, *Quarterly Journal of Mathematics* **69** (2018), 975-993.
 [arXiv](https://arxiv.org/abs/1708.09635)
 
-[6] N. J. Laustsen and J. T. White, An infinite C\*-algebra, with a dense, stably-finite \*-subalgebra,  *Proceedings of the American Mathematical Society* **146** (2018), 2523-2528.
+[7] N. J. Laustsen and J. T. White, An infinite C\*-algebra, with a dense, stably-finite \*-subalgebra,  *Proceedings of the American Mathematical Society* **146** (2018), 2523-2528.
 [arXiv](https://arxiv.org/abs/1705.05835)
 
-[7] J.T. White, Finitely-generated left ideals in Banach algebras on groups and semigroups, *Studia Mathematica* **239** (2017), 67-99.
+[8] J.T. White, Finitely-generated left ideals in Banach algebras on groups and semigroups, *Studia Mathematica* **239** (2017), 67-99.
 [arXiv](https://arxiv.org/abs/1612.05915)
 
 
