@@ -9,6 +9,8 @@ My research is concerned with the Banach and operator algebras associated with l
 
 ## Publications
 ### Preprints
+[1] J. T. White, On the Dales-{\.Z}elazko conjecture for Beurling algebras on discrete groups, *submitted for peer review*. [arXiv](https://arxiv.org/abs/2206.13989)
+
 [1] J. T. White, The ideal structure of measure algebras and asymptotic properties of group representations, *submitted for peer review*. [arXiv](https://arxiv.org/abs/2106.07526)
 
 
