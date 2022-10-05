@@ -11,10 +11,9 @@ My research is concerned with the Banach and operator algebras associated with l
 ### Preprints
 [1] J. T. White, On the Dales-Zelazko conjecture for Beurling algebras on discrete groups, *submitted for peer review*. [arXiv](https://arxiv.org/abs/2206.13989)
 
-[2] J. T. White, The ideal structure of measure algebras and asymptotic properties of group representations, *submitted for peer review*. [arXiv](https://arxiv.org/abs/2106.07526)
-
-
 ### Published
+[2] J. T. White, The ideal structure of measure algebras and asymptotic properties of group representations, *Journal of Operator Theory*. [arXiv](https://arxiv.org/abs/2106.07526)
+
 [3] J. T. White, Algebras associated with invariant means on the subnormal subgroups of an amenable group, *Quarterly Journal of Mathematics* **73** (2022), 495-515. [arXiv](https://arxiv.org/abs/2008.09069)
 
 [4]  N. J. Laustsen and J. T. White, Subspaces that can and cannot be the kernel of a bounded operator of a Banach space, *Proceedings of the 23rd International Conference on Banach Algebras and Applications*, De Gruyter Proceedings in Mathematics (De Gruyter 2020), 189-196.
