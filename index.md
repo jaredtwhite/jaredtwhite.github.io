@@ -39,8 +39,8 @@ My PhD thesis, entitled *Banach algebras on groups and semigroups*, can be found
 ## Curriculum Vitae
 See here: [CV](https://jaredtwhite.github.io/CV.pdf)
 
-## Teaching Statement
-See here: [teaching statement](https://jaredtwhite.github.io/Teaching_Statement.pdf)
+%## Teaching Statement
+%See here: [teaching statement](https://jaredtwhite.github.io/Teaching_Statement.pdf)
 
 ## Contact
 I can be reached by email at jw65537 AT gmail DOT com.
