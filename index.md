@@ -9,7 +9,7 @@ My research is concerned with the Banach and operator algebras associated with l
 
 ## Publications
 ### Preprints
-[1] J. T. White, Weak*-simplicity of convolution algebras on discrete groups.
+[1] J. T. White, Weak*-simplicity of convolution algebras on discrete groups (18 pages). [arXiv](https://arxiv.org/abs/2309.15570)
 
 [2] J. T. White, The ideal structure of measure algebras and asymptotic properties of group representations, to appear in the *Journal of Operator Theory*. [arXiv](https://arxiv.org/abs/2106.07526)
 
