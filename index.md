@@ -1,11 +1,11 @@
 ## Jared T White
-My name is Jared White, and I am a researcher in pure mathematics, as well as a university maths lecturer and private maths tutor.
+I am an associate lecturer and visiting research fellow at the open university. My research in in pure mathematics, specifically functional analysis and group theory.
 
 ## Research Interests
 ### Key words
 Group theory, functional analysis, abstract harmonic analysis, locally compact groups, discrete groups, Banach algebras, operator theory.
 ### Summary
-My research is concerned with the Banach and operator algebras associated with locally compact groups, and seeks to better understand how properties of the underlying group are reflected in the associated algebras, and vice versa. I am motivated by a fascination with the interplay between abstract analysis and abstract algebra, and  I consider myself to be an analyst and algebraist in equal measure. One important aspect of this research has concerned better understanding the structure and properties of the (left/right/two-sided) ideals of these algebras.  Other interests of mine include amenability, semigroup Banach algebras, and direct finiteness of C\*-algebras on groups and semigroups. 
+My research studies the Banach and operator algebras associated with locally compact groups, and seeks to better understand how properties of the underlying group are reflected in the associated algebras, and vice versa. One important aspect of this research concerns better understanding the structure and properties of the (left/right/two-sided) ideals of these algebras.  Other interests of mine include amenability, Arens products on biduals, and algebras of operators on a Banach space.
 
 ## Publications
 ### Preprints
