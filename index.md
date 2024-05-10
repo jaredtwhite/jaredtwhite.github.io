@@ -1,5 +1,5 @@
 ## Jared T White
-I am an associate lecturer and visiting research fellow at the open university. My research in in pure mathematics, specifically functional analysis and group theory.
+I am an associate lecturer and visiting research fellow at The Open University in the UK. My research in in pure mathematics, specifically functional analysis and group theory.
 
 ## Research Interests
 ### Key words
