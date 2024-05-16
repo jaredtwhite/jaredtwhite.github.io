@@ -1,5 +1,5 @@
 ## Jared T White
-I am an associate lecturer and visiting research fellow at The Open University in the UK. My research in in pure mathematics, specifically functional analysis and group theory.
+I am an associate lecturer and visiting research fellow at The Open University in the UK. My research is in pure mathematics, specifically functional analysis and group theory.
 
 ## Research Interests
 ### Key words
@@ -9,7 +9,7 @@ My research studies the Banach and operator algebras associated with locally com
 
 ## Publications
 ### Preprints
-[1] J. T. White, Weak*-simplicity of convolution algebras on discrete groups (18 pages). [arXiv](https://arxiv.org/abs/2309.15570)
+[1] J. T. White, Weak*-simplicity of convolution algebras on discrete groups, to appear in *Studia Mathematica* (18 pages). [arXiv](https://arxiv.org/abs/2309.15570)
 
 [2] J. T. White, The ideal structure of measure algebras and asymptotic properties of group representations, to appear in the *Journal of Operator Theory*. [arXiv](https://arxiv.org/abs/2106.07526)
 
