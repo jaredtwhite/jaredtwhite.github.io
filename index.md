@@ -22,7 +22,7 @@ My research studies the Banach and operator algebras associated with locally com
 [5]  N. J. Laustsen and J. T. White, Subspaces that can and cannot be the kernel of a bounded operator of a Banach space, *Proceedings of the 23rd International Conference on Banach Algebras and Applications*, De Gruyter Proceedings in Mathematics (De Gruyter 2020), 189-196.
 [arXiv](https://arxiv.org/abs/1811.02399)
 
-[6] J. T. White, Left ideals of Banach algebras and Dual Banach algebras, *Proceedings of the 23rd International Conference on Banach Algebras and Applications*, De Gruyter Proceedings in Mathematics (De Gruyter 2020), 227-253.
+[6] J. T. White, Left ideals of Banach algebras and dual Banach algebras, *Proceedings of the 23rd International Conference on Banach Algebras and Applications*, De Gruyter Proceedings in Mathematics (De Gruyter 2020), 227-253.
 [arXiv](https://arxiv.org/abs/1811.02393)
 
 [7] J. T. White, The radical of the bidual of a Beurling algebra, *Quarterly Journal of Mathematics* **69** (2018), 975-993.
