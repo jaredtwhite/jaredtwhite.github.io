@@ -11,9 +11,9 @@ My research studies the Banach and operator algebras associated with locally com
 ### Preprints
 [1] J. T. White, Weak\*-simplicity of convolution algebras on discrete groups, to appear in *Studia Mathematica* (18 pages). [arXiv](https://arxiv.org/abs/2309.15570)
 
-[2] J. T. White, The ideal structure of measure algebras and asymptotic properties of group representations, to appear in the *Journal of Operator Theory* (21 pages). [arXiv](https://arxiv.org/abs/2106.07526)
 
 ### Published
+[2] J. T. White, The ideal structure of measure algebras and asymptotic properties of group representations, *Journal of Operator Theory* **91** no. 2 (2024), 373-398. [arXiv](https://arxiv.org/abs/2106.07526)
 
 [3] J. T. White, On the Dales-Zelazko conjecture for Beurling algebras on discrete groups, *Proceedings of the Edinburgh Mathematical Society* (2) **66** no. 3 (2023), 613-624. [arXiv](https://arxiv.org/abs/2206.13989)
 
