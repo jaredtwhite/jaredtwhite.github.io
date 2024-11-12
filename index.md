@@ -8,11 +8,9 @@ Group theory, functional analysis, abstract harmonic analysis, locally compact g
 My research studies the Banach and operator algebras associated with locally compact groups, and seeks to better understand how properties of the underlying group are reflected in the associated algebras, and vice versa. These algebras include measure algebras, Fourier-Stieltjes algebras, and Beurling algebras, among others. One important aspect of this research concerns better understanding the structure and properties of the (left/right/two-sided) ideals of these algebras.  Other interests of mine include amenability, Arens products on biduals, and algebras of operators on a Banach space.
 
 ## Publications
-### Preprints
-[1] J. T. White, Weak\*-simplicity of convolution algebras on discrete groups, to appear in *Studia Mathematica* (18 pages). [arXiv](https://arxiv.org/abs/2309.15570)
 
+[1] J. T. White, Weak\*-simplicity of convolution algebras on discrete groups, *Studia Mathematica* **273** (2024), 267-289. [arXiv](https://arxiv.org/abs/2309.15570)
 
-### Published
 [2] J. T. White, The ideal structure of measure algebras and asymptotic properties of group representations, *Journal of Operator Theory* **91** no. 2 (2024), 373-398. [arXiv](https://arxiv.org/abs/2106.07526)
 
 [3] J. T. White, On the Dales-Zelazko conjecture for Beurling algebras on discrete groups, *Proceedings of the Edinburgh Mathematical Society* (2) **66** no. 3 (2023), 613-624. [arXiv](https://arxiv.org/abs/2206.13989)
