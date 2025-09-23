@@ -9,7 +9,7 @@ My research studies the Banach and operator algebras associated with locally com
 
 ## In Preparation
 
-Non-Weiner groups With a Gelfand pair (with Max Carter).
+Non-Weiner groups with a Gelfand pair (with Max Carter).
 
 Radicals of biduals of Beurling algebras can be different for the two Arens products
 
