@@ -13,7 +13,7 @@ My research studies the Banach and operator algebras associated with locally com
 
 ## Preprints
 
-[10] Radicals of biduals of Beurling algebras can be different for the two Arens products (21 pages). [arXiv](https://arxiv.org/abs/2602.02764)
+[10] J. T. White, Radicals of biduals of Beurling algebras can be different for the two Arens products (21 pages). [arXiv](https://arxiv.org/abs/2602.02764)
 
 ## Publications
 
