@@ -11,7 +11,9 @@ My research studies the Banach and operator algebras associated with locally com
 
 [11] Non-Weiner groups with a Gelfand pair (with Max Carter).
 
-[10] Radicals of biduals of Beurling algebras can be different for the two Arens products
+## Preprints
+
+[10] Radicals of biduals of Beurling algebras can be different for the two Arens products (21 pages). [arXiv](https://arxiv.org/abs/2602.02764)
 
 ## Publications
 
