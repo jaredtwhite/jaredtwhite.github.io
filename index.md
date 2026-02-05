@@ -46,7 +46,7 @@ My research studies the Banach and operator algebras associated with locally com
 My PhD thesis, entitled *Banach algebras on groups and semigroups*, can be found [here](https://jaredtwhite.github.io/PhD_Thesis.pdf).
 
 ## Curriculum Vitae
-See here: [CV](https://jaredtwhite.github.io/CV.pdf)
+See here: [CV](https://jaredtwhite.github.io/CV_05-02-26.pdf)
 
 ## Contact
 I can be reached by email at jw65537 AT gmail DOT com.
