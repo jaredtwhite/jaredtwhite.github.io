@@ -9,7 +9,7 @@ My research studies the Banach and operator algebras associated with locally com
 
 ## Preprints
 
-[11] M. Carter and J. T. White, Non-Weiner groups with a Gelfand pair (21 pages). [arXiv](https://arxiv.org/abs/2602.20364)
+[11] M. Carter and J. T. White, Non-Weiner groups with a Gelfand pair (23 pages). [arXiv](https://arxiv.org/abs/2602.20364)
 
 [10] J. T. White, Radicals of biduals of Beurling algebras can be different for the two Arens products (21 pages). [arXiv](https://arxiv.org/abs/2602.02764)
 
