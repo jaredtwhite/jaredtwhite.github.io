@@ -5,11 +5,11 @@ I am an associate lecturer and visiting research fellow at The Open University i
 ### Key words
 Group theory, functional analysis, abstract harmonic analysis, locally compact groups, discrete groups, Banach algebras, operator theory.
 ### Summary
-My research studies the Banach and operator algebras associated with locally compact groups, and seeks to better understand how properties of the underlying group are reflected in the associated algebras, and vice versa. These algebras include measure algebras, Fourier-Stieltjes algebras, and Beurling algebras, among others. One important aspect of this research concerns better understanding the structure and properties of the (left/right/two-sided) ideals of these algebras.  Other interests of mine include amenability, Arens products on biduals, and algebras of operators on a Banach space.
+My research studies the Banach and operator algebras associated with locally compact groups, and seeks to better understand how properties of the underlying group are reflected in the associated algebras, and vice versa. These algebras include L^1-group algebras, measure algebras, L^p-operator algebras, and Beurling algebras, among others. One important aspect of this research concerns better understanding the structure and properties of the (left/right/two-sided) ideals of these algebras.  Other interests of mine include amenability, Arens products on biduals, and algebras of operators on a Banach space.
 
 ## Preprints
 
-[11] M. Carter and J. T. White, Non-Weiner groups with a Gelfand pair (23 pages). [arXiv](https://arxiv.org/abs/2602.20364)
+[11] M. Carter and J. T. White, Non-Wiener groups with a Gelfand pair (23 pages). [arXiv](https://arxiv.org/abs/2602.20364)
 
 [10] J. T. White, Radicals of biduals of Beurling algebras can be different for the two Arens products (21 pages). [arXiv](https://arxiv.org/abs/2602.02764)
 
